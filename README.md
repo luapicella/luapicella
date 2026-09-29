@@ -1,11 +1,14 @@
-### Hi there 👋
+# Hi, I'm Luigi 👋
 
+Backend Software Engineer at **Garmin Italy Technologies**, building the cloud services behind Garmin's marine navigation products 🌊
 
+- 🔧 Distributed systems, cloud architecture and backend reliability
+- 🤖 AI-native engineering: I use coding agents daily, with tests and review as the safety net
+- 🎤 Speaker at GDG Pisa: *Monoliths vs Microservices*
+- 🌍 Based in Italy, open to remote roles (EU / CET hours)
 
+**Stack:** Java · Spring · Python · AWS · Azure · Docker · Kubernetes · CI/CD · Grafana · Prometheus · Datadog
 
+Most of my day-to-day work is in private repos. Here you'll find side projects and experiments.
 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigiapicella/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/luigi.apicella.9/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ginil)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luapicella&layout=compact&hide=css,html,Makefile,Cmake,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[LinkedIn](https://www.linkedin.com/in/luigiapicella/) · [Email](mailto:apc.luigi@gmail.com)
