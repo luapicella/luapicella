@@ -5,7 +5,7 @@ Backend Software Engineer at **Garmin Italy Technologies**, building the cloud s
 - 🔧 Distributed systems, cloud architecture and backend reliability
 - 🤖 AI-native engineering: I use coding agents daily, with tests and review as the safety net
 - 🎤 Speaker at GDG Pisa: *Monoliths vs Microservices*
-- 🌍 Based in Italy, open to remote roles (EU / CET hours)
+- 🌍 Based in Italy
 
 **Stack:** Java · Spring · Python · AWS · Azure · Docker · Kubernetes · CI/CD · Grafana · Prometheus · Datadog
 
